@@ -1,6 +1,6 @@
 # 【ChatGPT 中文版】国内使用最新指南（支持GPT-4、4o 和 o1，无需翻墙）【6月持续更新】
 
-> 更新：2025/06/05
+> 更新：2025/06/14
 
 想体验先进的 AI 聊天工具 ChatGPT，却因访问限制而感到困扰？
 
@@ -25,7 +25,7 @@
 
 以下是我们精选的国内 **ChatGPT 中文版镜像网站**，为您提供高效的中文访问体验：
 
-1. **一下AI ([chat.yixiaai.com](https://chat.lanjing.pro/))**  
+1. **一下AI ([chat.yixiaai.com](https://talk.lanjing.pro/))**  
    **ChatGPT中文版**，运营近两年，支持GPT-4、4o、4o mini及o1，提供AI绘画功能。用户扫码就能使用。
 
 2. **AI智慧岛 ([chat.lify.vip](https://chat.yixiaai.com/))**  
@@ -72,7 +72,7 @@
 
 ### 方法一：通过镜像网站进行快速体验
 
-1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.lanjing.pro](https://chat.lanjing.pro/)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [talk.lanjing.pro](https://talk.lanjing.pro/)）。
 2. **注册或直接使用**：
    - **扫码登录**：微信扫码，即可使用。
    - **免注册**：直接进入聊天界面，输入问题即可获得解答。
